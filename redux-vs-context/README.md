@@ -1,0 +1,1 @@
+Based on https://daveceddia.com/context-api-vs-redux/
