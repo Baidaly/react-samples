@@ -1,0 +1,1 @@
+Based on https://reactjs.org/docs/thinking-in-react.html
